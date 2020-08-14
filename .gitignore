@@ -1,1 +1,6 @@
 /node_modules
+.env
+env.yaml
+.dockerignore
+Dockerfile
+app.yaml
