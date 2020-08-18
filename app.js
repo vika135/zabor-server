@@ -9,7 +9,7 @@ const app = express();
 const ALLOWED_ORIGINS = [
     'http://127.0.0.1:5500',
     'https://vika135.github.io',
-    'j17.liderpoiska.ru'
+    'http://j17.liderpoiska.ru'
   ]
 
 app.set('trust proxy', true);
